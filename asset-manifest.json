@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FreshoverseasAlpha/static/css/main.c2fe0188.css",
+    "main.js": "/FreshoverseasAlpha/static/js/main.666fa49b.js",
+    "static/media/Banner17.jpg": "/FreshoverseasAlpha/static/media/Banner17.4c20fffef8ed7e54de9f.jpg",
+    "static/media/Veges.jpg": "/FreshoverseasAlpha/static/media/Veges.b48af6eb58572120d26f.jpg",
+    "static/media/Mango.jpg": "/FreshoverseasAlpha/static/media/Mango.06df27422035e7ef3e15.jpg",
+    "static/media/Onion.jpg": "/FreshoverseasAlpha/static/media/Onion.78afe374f46b05eb9dcc.jpg",
+    "static/media/Pumpkin1.jpg": "/FreshoverseasAlpha/static/media/Pumpkin1.074ba2958ddbfddea314.jpg",
+    "static/media/Pomogrante.jpg": "/FreshoverseasAlpha/static/media/Pomogrante.c2ab166cc93f69eaaf1b.jpg",
+    "static/media/veg5.png": "/FreshoverseasAlpha/static/media/veg5.222d481700b4eeafc12f.png",
+    "static/media/cont3.png": "/FreshoverseasAlpha/static/media/cont3.2ee85655b388342add5e.png",
+    "static/media/Grapes2.jpg": "/FreshoverseasAlpha/static/media/Grapes2.e9e2a2b5c1ca14cbdb64.jpg",
+    "static/media/Halal.jpg": "/FreshoverseasAlpha/static/media/Halal.e131be5d7aacb4478a13.jpg",
+    "static/media/logob.png": "/FreshoverseasAlpha/static/media/logob.b98e33796e41cb106595.png",
+    "static/media/GMP.png": "/FreshoverseasAlpha/static/media/GMP.aa2df4acb07769ef9977.png",
+    "index.html": "/FreshoverseasAlpha/index.html",
+    "static/media/wave3.svg": "/FreshoverseasAlpha/static/media/wave3.226a6333ff36b1dd4cc8d6d9d0df326b.svg",
+    "static/media/wave4.svg": "/FreshoverseasAlpha/static/media/wave4.c5ff289c8a352242b79d8696f799d45c.svg",
+    "main.c2fe0188.css.map": "/FreshoverseasAlpha/static/css/main.c2fe0188.css.map",
+    "main.666fa49b.js.map": "/FreshoverseasAlpha/static/js/main.666fa49b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fe0188.css",
+    "static/js/main.666fa49b.js"
+  ]
+}
