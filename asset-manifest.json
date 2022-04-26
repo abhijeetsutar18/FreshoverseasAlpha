@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FreshoverseasAlpha/static/css/main.c2fe0188.css",
-    "main.js": "/FreshoverseasAlpha/static/js/main.666fa49b.js",
+    "main.css": "/FreshoverseasAlpha/static/css/main.d4e1bb1c.css",
+    "main.js": "/FreshoverseasAlpha/static/js/main.309a1ba3.js",
     "static/media/Banner17.jpg": "/FreshoverseasAlpha/static/media/Banner17.4c20fffef8ed7e54de9f.jpg",
     "static/media/Veges.jpg": "/FreshoverseasAlpha/static/media/Veges.b48af6eb58572120d26f.jpg",
     "static/media/Mango.jpg": "/FreshoverseasAlpha/static/media/Mango.06df27422035e7ef3e15.jpg",
@@ -17,11 +17,11 @@
     "index.html": "/FreshoverseasAlpha/index.html",
     "static/media/wave3.svg": "/FreshoverseasAlpha/static/media/wave3.226a6333ff36b1dd4cc8d6d9d0df326b.svg",
     "static/media/wave4.svg": "/FreshoverseasAlpha/static/media/wave4.c5ff289c8a352242b79d8696f799d45c.svg",
-    "main.c2fe0188.css.map": "/FreshoverseasAlpha/static/css/main.c2fe0188.css.map",
-    "main.666fa49b.js.map": "/FreshoverseasAlpha/static/js/main.666fa49b.js.map"
+    "main.d4e1bb1c.css.map": "/FreshoverseasAlpha/static/css/main.d4e1bb1c.css.map",
+    "main.309a1ba3.js.map": "/FreshoverseasAlpha/static/js/main.309a1ba3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2fe0188.css",
-    "static/js/main.666fa49b.js"
+    "static/css/main.d4e1bb1c.css",
+    "static/js/main.309a1ba3.js"
   ]
 }
